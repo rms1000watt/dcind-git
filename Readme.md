@@ -1,4 +1,4 @@
-# DCinD
+# DCinD Git
 
 ## Introduction
 
